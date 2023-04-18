@@ -1,2 +1,6 @@
 [build]
   command = "npm run build && npx prisma generate && npx prisma db push"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
