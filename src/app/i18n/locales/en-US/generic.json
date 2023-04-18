@@ -1,0 +1,64 @@
+{
+  "language": {
+    "de-DE": "German (de-DE)",
+    "en-US": "English (en-US)"
+  },
+
+  "metadata": {
+    "title": {
+      "default": "App (EN)",
+      "template": "%s | App"
+    },
+    "description": "Description",
+    "applicationName": "App"
+  },
+
+  "display_name": "Display name",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm password",
+
+  "not-signed-in": "Not signed in.",
+  "sign_out": "Sign out",
+  "sign_in": "Sign in",
+  "sign_up": "Sign up",
+  "create_an_account": "Create an account",
+  "reset_password": "Reset password",
+  "reset_your_password": "Reset your password",
+
+  "send_reset_link": "Send reset link",
+  "back_to_sign_in": "Back to sign in",
+  "back_to_homepage": "Back to homepage",
+
+  "page_not_found": "Page not found",
+
+  "welcome_back": "Welcome back!",
+
+  "invalid_credentials": "Invalid credentials.",
+  "we_have_sent_you_an_email_with_a_link_to_reset_your_password": "We have sent you an email with a link to reset your password.",
+
+  "already_registered": "Already registered?",
+  "you_dont_have_an_account": "You don't have an account?",
+  "forgot_password": "Forgot password?",
+  "you_remembered_your_password_again": "You remembered your password again?",
+
+  "or_register_with_email": "or register with email",
+  "or_sign_in_with_email": "or sign in with email",
+
+  "signed_in_as": "Signed in as {{ value }}",
+  "welcome": "Welcome {{ value }}",
+  "sign_in_with": "Sign in with {{ value }}",
+
+  "dashboard": "Dashboard",
+
+  "errors": {
+    "invalid_email": "Invalid email.",
+
+    "field_too_short": "Field should be at least {{ minChar }} characters long.",
+    "field_too_long": "Field should be at most {{ maxChar }} characters long.",
+
+    "password_too_short": "Password should be at least 6 characters long.",
+    "password_too_long": "Password should be at most 100 characters long.",
+    "passwords_dont_match": "Passwords don't match."
+  }
+}

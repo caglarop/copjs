@@ -1,0 +1,64 @@
+{
+  "language": {
+    "de-DE": "Deutsch (de-DE)",
+    "en-US": "English (en-US)"
+  },
+
+  "metadata": {
+    "title": {
+      "default": "App (DE)",
+      "template": "%s | App"
+    },
+    "description": "Beschreibung",
+    "applicationName": "App"
+  },
+
+  "display_name": "Anzeige-Name",
+  "email": "E-Mail-Adresse",
+  "password": "Passwort",
+  "confirm_password": "Passwort bestätigen",
+
+  "not-signed-in": "Nicht angemeldet.",
+  "sign_out": "Abmelden",
+  "sign_in": "Anmelden",
+  "sign_up": "Registrieren",
+  "create_an_account": "Erstelle ein Konto",
+  "reset_password": "Passwort zurücksetzen",
+  "reset_your_password": "Passwort zurücksetzen",
+
+  "send_reset_link": "Link zum Zurücksetzen senden",
+  "back_to_sign_in": "Zurück zur Anmeldung",
+  "back_to_homepage": "Zurück zur Startseite",
+
+  "page_not_found": "Seite nicht gefunden",
+
+  "welcome_back": "Willkommen zurück!",
+
+  "invalid_credentials": "Ungültige Anmeldedaten",
+  "we_have_sent_you_an_email_with_a_link_to_reset_your_password": "Wir haben dir eine E-Mail mit einem Link zum Zurücksetzen deines Passworts gesendet.",
+
+  "already_registered": "Du hast bereits ein Konto?",
+  "you_dont_have_an_account": "Du hast noch kein Konto?",
+  "forgot_password": "Passwort vergessen?",
+  "you_remembered_your_password_again": "Du hast dein Passwort wiedererkannt?",
+
+  "or_register_with_email": "oder mit E-Mail-Adresse registrieren",
+  "or_sign_in_with_email": "oder mit E-Mail-Adresse anmelden",
+
+  "signed_in_as": "Angemeldet als {{ value }}",
+  "welcome": "Willkommen {{ value }}",
+  "sign_in_with": "Anmelden mit {{ value }}",
+
+  "dashboard": "Dashboard",
+
+  "errors": {
+    "invalid_email": "Ungültige E-Mail-Adresse",
+
+    "field_too_short": "Das Feld muss mindestens {{ minChar }} Zeichen lang sein.",
+    "field_too_long": "Das Feld darf maximal {{ maxChar }} Zeichen lang sein.",
+
+    "password_too_short": "Das Passwort muss mindestens 6 Zeichen lang sein.",
+    "password_too_long": "Das Passwort darf maximal 100 Zeichen lang sein.",
+    "passwords_dont_match": "Die Passwörter stimmen nicht überein."
+  }
+}

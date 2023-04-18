@@ -1,0 +1,23 @@
+.input:autofill,
+.input:-webkit-autofill,
+.input:-webkit-autofill:hover,
+.input:-webkit-autofill:focus,
+.input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s;
+  background: transparent !important;
+  background-clip: content-box !important;
+  -webkit-background-clip: content-box !important;
+}
+
+@-webkit-keyframes autofill {
+  0%,
+  100% {
+    background: transparent;
+  }
+}
+
+.input:-webkit-autofill {
+  -webkit-animation-delay: 1s; /* Safari support - any positive time runs instantly */
+  -webkit-animation-name: autofill;
+  -webkit-animation-fill-mode: both;
+}

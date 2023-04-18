@@ -1,0 +1,34 @@
+{
+  // General settings
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": [
+    "source.addMissingImports",
+    "source.fixAll.eslint"
+  ],
+  // Multiple language settings for json and jsonc files
+  "[json][jsonc][yaml]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // Prettier settings
+  "prettier.ignorePath": ".gitignore", // Don't run prettier for files listed in .gitignore,
+  // Search settings
+  "search.exclude": {
+    "package-lock.json": true,
+    "**/.*": true,
+    "**/node_modules": true,
+    "**/tmp": true
+  },
+  // Tailwind CSS settings
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "clsx|classNames|cls\\(([^)]*)\\)",
+      "(?:'|\"|`)([^']*)(?:'|\"|`)"
+    ]
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
