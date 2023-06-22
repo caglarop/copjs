@@ -1,4 +1,4 @@
-# 🔥 CopJS - Next.js 13.3 Based Boilerplate for Modern Web Applications
+### 🔥 CopJS - Next.js 13.3 Based Boilerplate for Modern Web Applications
 
 <p>
   Project Status: No Further Development
