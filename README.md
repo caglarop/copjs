@@ -1,5 +1,15 @@
 # 🔥 CopJS - Next.js 13.3 Based Boilerplate for Modern Web Applications
 
+<p>
+  Project Status: No Further Development
+
+<b>Note:</b>This project is no longer being actively developed or maintained. However, it remains available for reference or use.
+
+Please be aware that this project is no longer actively maintained. Feel free to use the existing codebase as-is, but no new features or updates are planned.
+
+Thank you for your interest and support in this project.
+</p>
+
 <p align="center">
   <a href="https://github.com/caglarop/copjs/">
     <img src="previews/header.png" />
