@@ -1,6 +1,6 @@
 ### 🔥 CopJS - Next.js 13.3 Based Boilerplate for Modern Web Applications
 
-<p style="color: red">
+<p>
   <b>Project Status:</b> No Further Development
 
 <b>Note:</b> This project is no longer being actively developed or maintained. However, it remains available for reference or use.
